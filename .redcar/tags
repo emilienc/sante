@@ -1,8 +1,13 @@
-1353855886
+1353913883
 Application	/Users/emilien/Documents/projets/sante/config/application.rb	  class Application 
 ApplicationController	/Users/emilien/Documents/projets/sante/app/controllers/application_controller.rb	class ApplicationController 
 ApplicationHelper	/Users/emilien/Documents/projets/sante/app/helpers/application_helper.rb	module ApplicationHelper
 BrowsingTest	/Users/emilien/Documents/projets/sante/test/performance/browsing_test.rb	class BrowsingTest 
 Sante	/Users/emilien/Documents/projets/sante/config/application.rb	module Sante
 TestCase	/Users/emilien/Documents/projets/sante/test/test_helper.rb	class ActiveSupport::TestCase
+WelcomeController	/Users/emilien/Documents/projets/sante/app/controllers/welcome_controller.rb	class WelcomeController 
+WelcomeControllerTest	/Users/emilien/Documents/projets/sante/test/functional/welcome_controller_test.rb	class WelcomeControllerTest 
+WelcomeHelper	/Users/emilien/Documents/projets/sante/app/helpers/welcome_helper.rb	module WelcomeHelper
+WelcomeHelperTest	/Users/emilien/Documents/projets/sante/test/unit/helpers/welcome_helper_test.rb	class WelcomeHelperTest 
+index	/Users/emilien/Documents/projets/sante/app/controllers/welcome_controller.rb	  def index
 test_homepage	/Users/emilien/Documents/projets/sante/test/performance/browsing_test.rb	  def test_homepage
